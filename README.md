@@ -6,7 +6,7 @@
 
 ## Description
 
-_A cat page which demonstrates simple javascript with calculator functions._
+_A page which demonstrates simple javascript with calculator functions._
 
 ## Setup/Installation Requirements
 
